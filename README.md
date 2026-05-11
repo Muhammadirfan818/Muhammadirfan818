@@ -1,77 +1,361 @@
-## Hi there 👋 I'm Irfan (Muhammad Irfan)
+<div align="center">
 
-**Full-Stack Developer** • **E-commerce & Dashboard Specialist**  
-**Agentic AI Engineer** • **Conversational AI & Realtime Voice Developer**
+# 👋 Hi, I'm Muhammad Irfan
 
-I build scalable, production-ready applications with strong focus on:
+### 🚀 Full-Stack Engineer • Agentic AI Developer • Voice AI Engineer
 
-- Modern web & mobile apps (responsive + high-performance)
-- Full-featured e-commerce platforms (cart, payments, inventory, real-time updates)
-- Powerful admin dashboards (analytics, CRUD, role-based access, live charts)
-- **Agentic AI** systems (autonomous agents, reasoning loops, tool usage, multi-agent orchestration — 1+ years focused experience)
-- **Conversational AI** products:
-  - WhatsApp Chatbots (order tracking, support, bookings, product search, payments)
-  - Voice Bots, Voice Assistants & Realtime Voice AI (IVR-style, telephony, speech-to-text / text-to-speech, natural dialogue)
-  - LiveKit-powered voice chats & AI agents (WebRTC-based realtime audio, multimodal voice/video agents)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Full-Stack+Developer+%7C+React+%7C+FastAPI+%7C+React+Native;Agentic+AI+%7C+Voice+AI+%7C+WhatsApp+Automation;Realtime+Systems+%7C+LiveKit+%7C+LLM+Engineering;Healthcare+AI+%7C+Ecommerce+%7C+Dashboards" />
 
-I love combining clean full-stack architecture with intelligent AI layers and realtime communication to create seamless, magical user experiences.
+<br/>
 
-### 🔭 What I'm Currently Working On
-- Agentic AI workflows that plan, reason, use tools and self-correct
-- AI-powered e-commerce features (smart search, recommendations, autonomous agents)
-- WhatsApp Business chatbots for retail & service businesses
-- Realtime voice AI agents & voice chats using LiveKit (low-latency, WebRTC streaming)
-- Dockerized deployments of full-stack + AI + voice applications
-- Modern admin dashboards with real-time data & AI insights
+<a href="https://github.com/Muhammadirfan818">
+<img src="https://img.shields.io/github/followers/Muhammadirfan818?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-### 🌱 Currently Exploring / Leveling Up
-- Multi-agent systems & long-term memory in agents
-- Advanced voice AI pipelines (STT, LLM, TTS, dialogue management)
-- LiveKit Agents framework for realtime multimodal voice/video AI
-- WhatsApp Business API + Meta integrations with AI
-- Docker Compose / multi-container setups for AI + realtime apps
-- Edge/low-latency conversational & streaming experiences
+<a href="https://github.com/Muhammadirfan818">
+<img src="https://img.shields.io/github/stars/Muhammadirfan818?style=for-the-badge&logo=github&label=Stars"/>
+</a>
 
-### 🛠️ Tech Stack Highlights
+<a href="https://linkedin.com/in/muhammad-irfan-37728939a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-**Frontend & Mobile**  
-React • Next.js • TypeScript • Tailwind CSS • React Native • Expo
+</div>
 
-**Backend & Databases**  
-Node.js • Express • NestJS • Python (FastAPI) • PostgreSQL • MongoDB • Redis
+---
 
-**AI & Conversational / Realtime Systems**  
-LangChain • LlamaIndex • CrewAI • AutoGen • OpenAI / Groq / Anthropic APIs  
-RAG pipelines • Function / Tool calling • Agentic reasoning  
-WhatsApp Business API • Twilio (Voice + WhatsApp)  
-LiveKit (realtime voice chats, voice AI agents, WebRTC audio/video)  
-Speech-to-Text & Text-to-Speech engines • Voiceflow / custom dialog engines  
-WebSocket • Realtime data streaming
+# 🧠 About Me
 
-**DevOps & Deployment**  
-Docker • Docker Compose • Containerization of AI & voice services  
-Git • CI/CD basics • AWS / Vercel / Railway • Performance optimization
+I'm a passionate **Full-Stack + AI Engineer** focused on building:
 
-### 📈 GitHub Activity
+- 🤖 Agentic AI Applications
+- 🎙️ Realtime Voice AI Systems
+- 💬 WhatsApp AI Assistants
+- 📱 Cross-platform Mobile Apps
+- 🛒 AI-Powered Ecommerce Platforms
+- 📊 Enterprise Dashboards
+- 🏥 Healthcare Intelligence Systems
+- ⚡ Low-latency Realtime Architectures
 
-Focus on my **pinned repositories** below for real examples 👇
+I specialize in combining:
 
-### 🚀 Featured Project Types
-- AI-Powered E-commerce Platform with intelligent agents
-- Real-time Admin Dashboard with AI insights & live updates
-- Multi-Agent Task Automator
-- WhatsApp Chatbot for retail / customer support
-- LiveKit-based Voice Chat & AI Voice Agent (realtime conversations)
-- Dockerized Voice AI Application with WebRTC streaming
-- React Native Marketplace App with offline + AI + voice features
+```txt
+Modern Frontend + Scalable Backend + Intelligent AI + Realtime Communication
+```
 
-### 💬 Ask Me About
-Full-stack development • E-commerce architecture • Admin dashboards  
-Agentic AI • WhatsApp Chatbots • Voice Bots / Voice AI  
-LiveKit realtime voice & agents • Docker containerization  
-React / Next.js / React Native • Node.js • Python AI backends • LLM integrations
+to create premium user experiences.
 
-### 😄 Fun Fact
-I built a voice bot that started roasting me in real-time when I kept interrupting it… deployment was smooth, dignity not so much. 😂
+---
 
-Thanks for stopping by — excited to build intelligent, realtime things together! 🚀
+# 🚀 Currently Working On
+
+- 🤖 Autonomous Agentic AI workflows
+- 🎙️ Realtime Voice AI agents with LiveKit
+- 🛒 AI-powered ecommerce assistants
+- 💬 WhatsApp AI automation systems
+- 🏥 Healthcare AI ecosystems
+- ⚡ Low-latency multimodal AI apps
+- 🐳 Dockerized AI infrastructure
+
+---
+
+# 🌱 Currently Exploring
+
+- Multi-Agent AI Architectures
+- Long-Term AI Memory Systems
+- Realtime WebRTC Voice Streaming
+- LiveKit Agents Framework
+- Advanced STT → LLM → TTS Pipelines
+- AI-native Infrastructure
+- Edge AI Systems
+
+---
+
+# 🛠️ Tech Stack
+
+# 🎨 Frontend & Mobile
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,materialui,reactivex,nodejs,expo" />
+
+</div>
+
+### Technologies
+
+- React.js
+- Next.js
+- React Native
+- Expo
+- TypeScript
+- Redux Toolkit
+- Tailwind CSS
+- NativeWind
+- Framer Motion
+- Reanimated
+- Material UI
+
+---
+
+# ⚙️ Backend & Infrastructure
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,postgres,mongodb,redis,docker,nginx" />
+
+</div>
+
+### Technologies
+
+- FastAPI
+- Node.js
+- Express.js
+- PostgreSQL
+- MongoDB
+- Redis
+- SQLAlchemy
+- Prisma ORM
+- Docker
+- Docker Compose
+- Nginx
+
+---
+
+# 🧠 AI / Agentic Systems / Voice AI
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LiveKit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deepgram-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ElevenLabs-111111?style=for-the-badge"/>
+
+</div>
+
+### Specialized In
+
+- Agentic AI Systems
+- Multi-Agent Architectures
+- Tool Calling
+- AI Orchestration
+- Voice AI Systems
+- WhatsApp AI Bots
+- Realtime AI Communication
+- WebRTC Streaming
+- RAG Pipelines
+- Speech-to-Text / Text-to-Speech
+- LLM Workflows
+
+---
+
+# 🚀 Featured Projects
+
+# 🧘 Vitalise — AI Yoga & Wellness Platform
+
+> AI-powered personalized yoga application with realtime voice coaching.
+
+### Features
+
+- AI-generated wellness plans
+- Voice-guided yoga sessions
+- Realtime AI mentor
+- Animated immersive UI
+- Adaptive AI planning system
+
+### Tech Stack
+
+```txt
+React Native • Expo • FastAPI • PostgreSQL • Groq AI
+```
+
+---
+
+# 🏥 HealthCore Clinic Ecosystem
+
+> Physician dashboard + AI WhatsApp Voice Assistant ecosystem.
+
+### Features
+
+- Clinical analytics dashboard
+- AI-powered appointment booking
+- Voice AI pipeline
+- PDF clinical summaries
+- WhatsApp AI communication
+
+### Tech Stack
+
+```txt
+React • FastAPI • Deepgram • ElevenLabs • Groq • PostgreSQL
+```
+
+---
+
+# 🧬 Luminae Skin Intelligence Platform
+
+> Clinical-grade AI skin analysis platform.
+
+### Features
+
+- AI facial analysis
+- Patient management
+- Treatment plan generation
+- Progress tracking
+- PDF reporting
+
+### Tech Stack
+
+```txt
+React 19 • FastAPI • OpenCV • PyTorch • Hugging Face
+```
+
+---
+
+# 🤖 Vitalis Clinic — WhatsApp Appointment Bot
+
+> Full-stack AI healthcare appointment automation system.
+
+### Features
+
+- WhatsApp appointment booking
+- AI intent extraction
+- Reminder automation
+- Dashboard management
+- LLM-powered conversations
+
+### Tech Stack
+
+```txt
+FastAPI • React • Node.js • WhatsApp WebJS • PostgreSQL
+```
+
+---
+
+# 📊 Project Management Dashboard
+
+> Enterprise analytics & project tracking platform.
+
+### Features
+
+- KPI dashboards
+- Role-based authentication
+- Budget analytics
+- Realtime insights
+- Team performance tracking
+
+### Tech Stack
+
+```txt
+React • TypeScript • Node.js • MongoDB • Prisma
+```
+
+---
+
+# 🎧 NCAST Podcast App
+
+> Cross-platform podcast streaming application.
+
+### Features
+
+- Offline podcast support
+- Background playback
+- Push notifications
+- Secure authentication
+- Persistent state sync
+
+### Tech Stack
+
+```txt
+React Native • Expo • Supabase • Redux Toolkit
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammadirfan818&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadirfan818&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammadirfan818&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadirfan818&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://linkedin.com/in/muhammad-irfan-37728939a/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/Muhammadirfan818">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="mailto:irfanshafiq818@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Ask Me About
+
+```txt
+Full-Stack Development
+Agentic AI
+Voice AI Systems
+WhatsApp Chatbots
+Realtime Systems
+LiveKit & WebRTC
+React / Next.js / React Native
+FastAPI AI Backends
+Healthcare AI Platforms
+Dockerized AI Applications
+```
+
+---
+
+# 😄 Fun Fact
+
+```txt
+I once built a voice AI assistant that started roasting me 
+in realtime whenever I interrupted it too much 😂
+```
+
+---
+
+<div align="center">
+
+# ⚡ Building Intelligent Realtime Systems with AI + Voice + Modern Full-Stack Engineering ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>

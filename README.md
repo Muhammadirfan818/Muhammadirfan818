@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Engineer • Agentic AI Developer • Voice AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Full-Stack+Developer+%7C+React+%7C+FastAPI+%7C+React+Native;Agentic+AI+%7C+Voice+AI+%7C+WhatsApp+Automation;Realtime+Systems+%7C+LiveKit+%7C+LLM+Engineering;Healthcare+AI+%7C+Ecommerce+%7C+Dashboards" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Full-Stack+Developer+%7C+FastAPI+%7C+React+Native;Agentic+AI+%7C+Voice+AI+%7C+WhatsApp+Automation;Realtime+Systems+%7C+LiveKit+%7C+LLM+Engineering;Healthcare+AI+%7C+Ecommerce+%7C+Dashboards" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/github/stars/Muhammadirfan818?style=for-the-badge&logo=github&label=Stars"/>
 </a>
 
-<a href="https://linkedin.com/in/muhammad-irfan-37728939a/">
+<a href="https://www.linkedin.com/in/muhammad-irfan-37728939a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -73,11 +73,11 @@ to create premium user experiences.
 
 # 🛠️ Tech Stack
 
-# 🎨 Frontend & Mobile
+## 🎨 Frontend & Mobile
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,materialui,reactivex,nodejs,expo" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,materialui,expo,firebase" />
 
 </div>
 
@@ -97,7 +97,7 @@ to create premium user experiences.
 
 ---
 
-# ⚙️ Backend & Infrastructure
+## ⚙️ Backend & Infrastructure
 
 <div align="left">
 
@@ -121,7 +121,7 @@ to create premium user experiences.
 
 ---
 
-# 🧠 AI / Agentic Systems / Voice AI
+## 🧠 AI / Agentic Systems / Voice AI
 
 <div align="left">
 
@@ -154,123 +154,14 @@ to create premium user experiences.
 
 # 🚀 Featured Projects
 
-# 🧘 Vitalise — AI Yoga & Wellness Platform
-
-> AI-powered personalized yoga application with realtime voice coaching.
-
-### Features
-
-- AI-generated wellness plans
-- Voice-guided yoga sessions
-- Realtime AI mentor
-- Animated immersive UI
-- Adaptive AI planning system
-
-### Tech Stack
-
-```txt
-React Native • Expo • FastAPI • PostgreSQL • Groq AI
-```
-
----
-
-# 🏥 HealthCore Clinic Ecosystem
-
-> Physician dashboard + AI WhatsApp Voice Assistant ecosystem.
-
-### Features
-
-- Clinical analytics dashboard
-- AI-powered appointment booking
-- Voice AI pipeline
-- PDF clinical summaries
-- WhatsApp AI communication
-
-### Tech Stack
-
-```txt
-React • FastAPI • Deepgram • ElevenLabs • Groq • PostgreSQL
-```
-
----
-
-# 🧬 Luminae Skin Intelligence Platform
-
-> Clinical-grade AI skin analysis platform.
-
-### Features
-
-- AI facial analysis
-- Patient management
-- Treatment plan generation
-- Progress tracking
-- PDF reporting
-
-### Tech Stack
-
-```txt
-React 19 • FastAPI • OpenCV • PyTorch • Hugging Face
-```
-
----
-
-# 🤖 Vitalis Clinic — WhatsApp Appointment Bot
-
-> Full-stack AI healthcare appointment automation system.
-
-### Features
-
-- WhatsApp appointment booking
-- AI intent extraction
-- Reminder automation
-- Dashboard management
-- LLM-powered conversations
-
-### Tech Stack
-
-```txt
-FastAPI • React • Node.js • WhatsApp WebJS • PostgreSQL
-```
-
----
-
-# 📊 Project Management Dashboard
-
-> Enterprise analytics & project tracking platform.
-
-### Features
-
-- KPI dashboards
-- Role-based authentication
-- Budget analytics
-- Realtime insights
-- Team performance tracking
-
-### Tech Stack
-
-```txt
-React • TypeScript • Node.js • MongoDB • Prisma
-```
-
----
-
-# 🎧 NCAST Podcast App
-
-> Cross-platform podcast streaming application.
-
-### Features
-
-- Offline podcast support
-- Background playback
-- Push notifications
-- Secure authentication
-- Persistent state sync
-
-### Tech Stack
-
-```txt
-React Native • Expo • Supabase • Redux Toolkit
-```
+- 🧘 Vitalise — AI Yoga & Wellness Platform
+- 🏥 HealthCore Clinic Ecosystem
+- 🧬 Luminae Skin Intelligence Platform
+- 🤖 Vitalis Clinic — WhatsApp Appointment Bot
+- 📊 Project Management Dashboard
+- 🎧 NCAST Podcast App
+- 🛒 Master Dynamic Ecommerce Platform
+- 🤖 Nexora AI Dashboard
 
 ---
 
@@ -286,40 +177,24 @@ React Native • Expo • Supabase • Redux Toolkit
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammadirfan818&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadirfan818&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
-<a href="https://linkedin.com/in/muhammad-irfan-37728939a/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="mailto:irfanshafiq818@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-irfan-37728939a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Muhammadirfan818">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:irfanshafiq818@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://www.facebook.com/irfan.shafiq.3990">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
@@ -339,15 +214,6 @@ React / Next.js / React Native
 FastAPI AI Backends
 Healthcare AI Platforms
 Dockerized AI Applications
-```
-
----
-
-# 😄 Fun Fact
-
-```txt
-I once built a voice AI assistant that started roasting me 
-in realtime whenever I interrupted it too much 😂
 ```
 
 ---
